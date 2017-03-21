@@ -1,0 +1,6 @@
+java/target/
+java/java.iml
+java/pom.xml
+.idea/
+out/
+java/META-INF/MANIFEST.MF

@@ -1,38 +1,11 @@
-# Advent of Code
-my (late) contribution to the Advent of Code
+# Advent of Code 2015  
+  
+This is me participating in the Advent of Code 2015  
+however I did up to day 12 already once but I will redo it for this  
+repository. And will do it not just in java as I see it as a huge  
+opportunity to get back into programming and "unrust" myself.
 
-# 2016
-
-### Used Languages
-|   Day     | PHP | 
-|:--------:|:------:|
-| 01 |      |
-| 02 |      |
-| 03 |      |
-| 04 |      |
-| 05 |      |
-| 06 |      |
-| 07 |      |
-| 08 |      |
-| 09 |      |
-| 10 |      |
-| 11 |      |
-| 12 |      |
-| 13 |      |
-| 14 |      |
-| 15 |      |
-| 16 |      |
-| 17 |      |
-| 18 |      |
-| 19 |      |
-| 20 |      |
-| 21 |      |
-| 22 |      |
-| 23 |      |
-| 24 |      |
-| 25 |      |
-
-# 2015
+I will also code all of the "puzzles" in dfferent languages
 
 ### Used Languages
 |        | Java | Python |
@@ -62,3 +35,18 @@ my (late) contribution to the Advent of Code
 | Day 23 |      |  Done  |
 | Day 24 |      |  Done  |
 | Day 25 |      |        |
+
+
+### Planned Languages
+- C#
+- C++
+- C
+- PHP
+- Scala
+- Rust
+- Haskel
+- Lua
+- Swift
+- Perl
+- JavaScript
+- Bash
