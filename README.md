@@ -1,14 +1,15 @@
 # Advent of Code
 my (late) contribution to the Advent of Code
 
+to run it, simply go to 2016/?day=01 on your website for example (maybe I implement a nice GUI to select the days)
 # 2016
 
 ### Used Languages
 |   Day     | PHP | 
 |:--------:|:------:|
-| 01 |      |
-| 02 |      |
-| 03 |      |
+| 01 | DONE |
+| 02 | DONE |
+| 03 | DONE |
 | 04 |      |
 | 05 |      |
 | 06 |      |
