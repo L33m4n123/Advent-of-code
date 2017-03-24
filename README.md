@@ -13,8 +13,8 @@ to run it, simply go to 2016/?day=01 on your website for example (maybe I implem
 | 04 | DONE |
 | 05 | DONE |
 | 06 | DONE |
-| 07 |      |
-| 08 |      |
+| 07 | DONE |
+| 08 | DONE |
 | 09 |      |
 | 10 |      |
 | 11 |      |
