@@ -10,9 +10,9 @@ to run it, simply go to 2016/?day=01 on your website for example (maybe I implem
 | 01 | DONE |
 | 02 | DONE |
 | 03 | DONE |
-| 04 |      |
-| 05 |      |
-| 06 |      |
+| 04 | DONE |
+| 05 | DONE |
+| 06 | DONE |
 | 07 |      |
 | 08 |      |
 | 09 |      |
